@@ -13,7 +13,7 @@ A web-based 3D flight simulator created with JavaScript and Three.js.
 
 ## How to Play
 
-1. Visit the [Flight Simulator 2025](https://[your-github-username].github.io/flight-simulator-2025/) website
+1. Visit the [[Flight Simulator 2025](https://[your-github-username].github.io/flight-simulator-2025/)](https://lukewell9.github.io/Flight-sim.2/) website
 2. Click "Start Game" to begin
 3. Use the following controls:
    - W/S: Increase/decrease throttle (engine power)
