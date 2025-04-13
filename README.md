@@ -40,4 +40,4 @@ A web-based 3D flight simulator created with JavaScript and Three.js.
 
 ## Credits
 
-Created by [Your Name] in 2025.
+Created by Luke.b in 2025.
